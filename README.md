@@ -22,7 +22,18 @@ This project also demonstrates the use of **basic Data Structures & Algorithms c
 - **HashMap Concept (JavaScript Object)** → used to store cart items and quantities
 - **DOM Manipulation** → dynamically updating cart items, totals, and UI elements
 - **Array Traversal** → iterating through menu cards for search and sorting
+  
 
+## Project Preview
+### Homepage 
+![Homepage](screenshots/homepage.png)
+### Menu
+![Menu](screenshots/menu.png)
+### Cart System
+![Cart](screenshots/cart.png)
+
+## Live Demo
+[click here to view the website](https://anu89ranjan89.github.io/Restaurant-website/)
 ## 🛠 Tech Stack
 
 - HTML5
